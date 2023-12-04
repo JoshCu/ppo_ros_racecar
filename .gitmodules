@@ -1,0 +1,12 @@
+[submodule "f1tenth_gym"]
+	path = f1tenth_gym
+	url = git@github.com:f1tenth/f1tenth_gym.git
+[submodule "f1tenth_reinforcement_learning"]
+	path = f1tenth_reinforcement_learning
+	url = git@github.com:JoshCu/f1tenth_reinforcement_learning.git
+[submodule "sim_ws/src/ros_ppo_controller"]
+	path = sim_ws/src/ros_ppo_controller
+	url = git@github.com:JoshCu/ros_ppo_controller.git
+[submodule "sim_ws/src/f1tenth_gym_ros"]
+	path = sim_ws/src/f1tenth_gym_ros
+	url = git@github.com:JoshCu/f1tenth_gym_ros.git
