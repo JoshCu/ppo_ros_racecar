@@ -1,0 +1,14 @@
+-e git+https://github.com/f1tenth/f1tenth_gym@cd56335eda43ff4e401331c461877227474a3ed4#egg=f110_gym
+gym==0.20.0
+gym-notices==0.0.8
+gymnasium==0.29.1
+numba==0.58.1
+numpy==1.22.0
+opencv-python==4.8.1.78
+pandas==1.5.3
+Pillow==9.0.1
+pyglet==1.4.11
+Pygments==2.11.2
+scipy==1.8.0
+stable-baselines3==1.8.0
+typing_extensions==4.8.0
