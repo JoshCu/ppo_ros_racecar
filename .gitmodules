@@ -1,6 +1,6 @@
 [submodule "f1tenth_gym"]
 	path = f1tenth_gym
-	url = git@github.com:f1tenth/f1tenth_gym.git
+	url = git@github.com:JoshCu/f1tenth_gym.git
 [submodule "f1tenth_reinforcement_learning"]
 	path = f1tenth_reinforcement_learning
 	url = git@github.com:JoshCu/f1tenth_reinforcement_learning.git
